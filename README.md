@@ -22,5 +22,5 @@ The data (Example_database.mat) and the code (Code_Simulation.ipynb or Code_Simu
 <p>&nbsp;</p>
 We really appreciate all of your hard work and effort. Thank you so much.
 
-
+<p>&nbsp;</p>
 Sincerely,

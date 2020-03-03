@@ -12,6 +12,7 @@ value ranging from 1 to 42.
 The data (Example_database.mat) and the code (Code_Simulation.ipynb or Code_Simulation.py) should be placed in the same directory.
 
 * We recommend using the Jupyter Notebook for running the code for more clarity.
+
 ** In case of using .py file, please enter the following command while locating .py and .mat files in same location. 
    You should also change the location of the environment to that directory.
    - !python Code_Simulation.py

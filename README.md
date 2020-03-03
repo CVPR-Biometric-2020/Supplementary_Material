@@ -2,7 +2,7 @@ Hello reviewer
 
 Thanks for reading our paper and code.
 
-Here, we introduce the implementation of the proposed model and the score fusion methods.The first stage consisting of preprocessing 
+Here, we introduce the implementation of the proposed model and the score fusion methods. The first stage consisting of preprocessing 
 and building the input data will be added later since it requires the full access to private database which reveals the authors’ identities. 
 Yet, sample result is included in a Jupyter Notebook (Code_Simulation.ipynb) where you can observe the outputs of this stage.
 
